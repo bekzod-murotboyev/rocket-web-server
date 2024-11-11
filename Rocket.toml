@@ -1,0 +1,6 @@
+[default]
+port = 8000
+temp_dir = "templates"
+
+[default.databases.rocket_db]
+url = "postgres://root:root_password@localhost/rocket_db"
